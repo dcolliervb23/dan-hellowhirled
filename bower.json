@@ -1,0 +1,16 @@
+{
+  "name": "dan-helloworldgithub",
+  "version": "0.0.1",
+  "authors": [
+    "Dan Collier <dcollier@connectionseducation.com>"
+  ],
+  "main": "foobar.js",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
